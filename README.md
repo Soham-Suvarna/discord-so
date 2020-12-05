@@ -1,3 +1,6 @@
+# DEPRECATED
+## This project is no longer maintained
+
 # discord-so
 A powerful module with so many features like memes, automemes, chatbot & more. The original package made by Snowflake was removed, so I added it again.
 
